@@ -3,15 +3,15 @@ This project demonstrates how to integrate a Gemini model using the Gemini API i
 
 Table of Contents 
 <hr>
-1.Introduction
-2.Prerequisites
-3.Installation
-4.Configuration
-5.Running the Application
-6.Usage
-7.Project Structure
-8.Contributing
-9.License
+1.Introduction <br>
+2.Prerequisites<br>
+3.Installation<br>
+4.Configuration<br>
+5.Running the Application<br>
+6.Usage<br>
+7.Project Structure<br>
+8.Contributing<br>
+9.License<br>
 This project provides a simple interface to interact with a Gemini model using Streamlit. Users can input queries and get responses in real-time, showcasing the capabilities of the Gemini API.
 <hr>
 Prerequisites
