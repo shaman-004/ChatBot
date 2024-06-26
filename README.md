@@ -25,7 +25,6 @@ Clone the repository:
 
 sh 
 ```
-Copy code
 git clone https://github.com/your-username/gemini-bot-streamlit.git
 cd gemini-bot-streamlit
 ```
@@ -33,31 +32,26 @@ cd gemini-bot-streamlit
 
 sh
 ```
-Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 ## Install the required packages:
 
 sh
-Copy code
 ```
 pip install -r requirements.txt
 ```
-Configuration:
+## Configuration:
 
 Obtain your API key from the Gemini API provider.
 
-Create a file named .env in the root directory of the project and add your API key:
+**Create a file named .env in the root directory of the project and add your API key to env** <br>
+**GEMINI_API_KEY=your_api_key_here** <br> 
 
-env
-Copy code
-GEMINI_API_KEY=your_api_key_here
-Running the Application
+**Running the Application**:
 To start the Streamlit application, run:
 
 sh
-Copy code
 ```
 streamlit run app.py
 ```
